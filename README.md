@@ -76,10 +76,19 @@ root@anaconda:~ # pkg install slim
 
   ### Preview
   
+  #### Green
   <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png"/><br/>
+  
+  #### Blue
   <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png"/><br/>
+  
+  #### Red
   <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png"/><br/>
+  
+  #### Purple
   <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png"/><br/>
+  
+  #### Orange
   <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png"/><br/>
   
   
