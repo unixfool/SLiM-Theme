@@ -2,10 +2,14 @@
 
 `slim version 1.3.6`
 `FreeBSD 12.2-STABLE`
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
+
 
 <p align="center">
+ 
 <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
+
 </p>
 
 FreeBSD SLiM Themes GitHub Night Style. <br/>
