@@ -3,7 +3,7 @@
 `slim version 1.3.6`
 `FreeBSD 12.2-STABLE`
 
-FreeBSD SLiM Themes GitHub Style. <br/>
+FreeBSD SLiM Themes GitHub Night Style. <br/>
 <b>Styles:</b>
  * Green
  * Blue
@@ -75,7 +75,11 @@ root@anaconda:~ # pkg install slim
 
   ### Preview
   
-  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png"/>
+  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png"/><br/>
+  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png"/><br/>
+  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png"/><br/>
+  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png"/><br/>
+  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png"/><br/>
   
   
   
