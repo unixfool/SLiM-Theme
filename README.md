@@ -4,6 +4,10 @@
 `FreeBSD 12.2-STABLE`
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
 
+<p align="center">
+<img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+</p>
+
 FreeBSD SLiM Themes GitHub Night Style. <br/>
 Screen Resolution: `1920x1080`<br/>
 <b>Styles:</b>
