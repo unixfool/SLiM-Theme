@@ -6,9 +6,7 @@
 
 <p align="center">
  
-<img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
+<img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge"> [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
 
 </p>
 
