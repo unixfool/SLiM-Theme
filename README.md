@@ -3,12 +3,16 @@
 `slim version 1.3.6`
 `FreeBSD 12.2-STABLE`
 
-
 <p align="center">
- 
-<img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge"> [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/unixfool/SLiM-Theme?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/unixfool/SLiM-Theme?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/unixfool/SLiM-Theme?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/unixfool/SLiM-Theme?color=violet&style=for-the-badge">
+  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
 
 </p>
+
 
 FreeBSD SLiM Themes GitHub Night Style. <br/>
 Screen Resolution: `1920x1080`<br/>
@@ -97,6 +101,4 @@ root@anaconda:~ # pkg install slim
   
   #### Orange
   <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png"/><br/>
-  
-  
-  
+ 
