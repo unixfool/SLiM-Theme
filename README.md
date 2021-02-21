@@ -2,6 +2,7 @@
 
 `slim version 1.3.6`
 `FreeBSD 12.2-STABLE`
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
 
 FreeBSD SLiM Themes GitHub Night Style. <br/>
 Screen Resolution: `1920x1080`<br/>
