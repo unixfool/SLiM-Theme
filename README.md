@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/github/issues/unixfool/SLiM-Theme?color=violet&style=for-the-badge">
 </p>
 
+<b>Release note:</b> 
+ * Add Username Msg.
+ * Add Password Msg.
+ * Add Welcome Msg.
 
 FreeBSD SLiM Themes GitHub Night Style. <br/>
 Screen Resolution: `1920x1080`<br/>
@@ -59,15 +63,15 @@ root@anaconda:~ # pkg install slim
  ```
  root@anaconda:~ # git clone https://github.com/unixfool/SLiM-Theme.git
  root@anaconda:~ # cd SLiM-Theme/
- root@anaconda:~ #  cp -R Blue /usr/local/share/slim/themes/
- root@anaconda:~ #  cp -R Green /usr/local/share/slim/themes/
- root@anaconda:~ #  cp -R Orange /usr/local/share/slim/themes/
- root@anaconda:~ #  cp -R Purple /usr/local/share/slim/themes/
- root@anaconda:~ #  cp -R Red /usr/local/share/slim/themes/
+ root@anaconda:~ # cp -R Blue /usr/local/share/slim/themes/
+ root@anaconda:~ # cp -R Green /usr/local/share/slim/themes/
+ root@anaconda:~ # cp -R Orange /usr/local/share/slim/themes/
+ root@anaconda:~ # cp -R Purple /usr/local/share/slim/themes/
+ root@anaconda:~ # cp -R Red /usr/local/share/slim/themes/
  ```
  
  
- `Step 2:` Edit SLiM config file.
+ `Step 2:` Edit SLiM config file.<br/>
  <b>NOTE:</b> Look at the end of file for: `#current_theme      default`<br/>
  <b>NOTE:</b> You can use; Blue / Green / Orange / Purple / Red<br/>
  
