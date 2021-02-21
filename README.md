@@ -43,8 +43,8 @@ root@anaconda:~ # pkg install slim
  ```
  
  
- <b>NOTE:</b> If you install SLiM, Now you need to enable on rc.conf
- <b>NOTE:</b> you can use a editor like ee, vi, pico, nano, vim. the local file is: /etc/rc.conf
+ <b>NOTE:</b> If you install SLiM, Now you need to enable on rc.conf<br/>
+ <b>NOTE:</b> you can use a editor like ee, vi, pico, nano, vim. the local file is: /etc/rc.conf<br/>
  <b>NOTE:</b> Or you can do it with `sysrc`
  
   ```
@@ -77,7 +77,7 @@ root@anaconda:~ # pkg install slim
   * `current_theme Purple`
   * `current_theme Red`
   
- <b> NOTE:</b> You only can set 1 Theme for SLiM, this is just a example of what themes you can use on the config file.
+ <b> NOTE:</b> You only can set 1 Theme for SLiM, this is just a example of what themes you can use on the config file.<br/>
  <b> NOTE:</b> Just need to change names on the current_theme value.
   
   
