@@ -4,6 +4,7 @@
 `FreeBSD 12.2-STABLE`
 
 FreeBSD SLiM Themes GitHub Night Style. <br/>
+Screen Resolution: `1920x1080`<br/>
 <b>Styles:</b>
  * Green
  * Blue
