@@ -1,5 +1,5 @@
 # SLiM-Theme 
-## [Simple Login Manager] [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
+## [Simple Login Manager]
 
  `slim version 1.3.6` `FreeBSD 12.2-STABLE`
  
@@ -106,4 +106,7 @@ root@anaconda:~ # pkg install slim
  
 <p>
  <a href="https://www.buymeacoffee.com/unixfool"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+ 
+ [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
+ 
  </p>
