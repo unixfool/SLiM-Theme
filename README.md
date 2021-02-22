@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/github/stars/unixfool/SLiM-Theme?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/unixfool/SLiM-Theme?color=teal&style=for-the-badge">
   <img src="https://img.shields.io/github/issues/unixfool/SLiM-Theme?color=violet&style=for-the-badge">
+ <a href="https://www.buymeacoffee.com/unixfool"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
  </p>
 
 <b>Release note:</b> 
