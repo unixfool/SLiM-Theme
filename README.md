@@ -3,8 +3,6 @@
 
  `slim version 1.3.6` `FreeBSD 12.2-STABLE`
  
- [![Github All Releases](https://img.shields.io/github/downloads/unixfool/SLiM-Theme/total.svg)]()
- 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/unixfool/SLiM-Theme?style=for-the-badge">
