@@ -96,18 +96,17 @@ root@anaconda:~ # pkg install slim
 <th>Blue</th>
 </tr>
 </thead>
-	<tbody>
-	<tr>
-		<td>
-		<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png">
-		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png" alt="img" style="max-width:100%;">
-		</a>
-		</td>
-
-		<td><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png">
-		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png" alt="img" style="max-width:100%;"></a></td>
-		</tr>
-	</tbody>
+<tbody>
+<tr>
+<td>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png">
+<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png" alt="img" style="max-width:50%;">
+</a>
+</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png">
+<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png" alt="img" style="max-width:50%;"></a></td>
+</tr>
+</tbody>
 </table>
 
 <table>
@@ -121,12 +120,12 @@ root@anaconda:~ # pkg install slim
 	<tr>
 		<td>
 		<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png">
-		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png" alt="img" style="max-width:100%;">
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png" alt="img" style="max-width:50%;">
 		</a>
 		</td>
 
 		<td><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png">
-		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png" alt="img" style="max-width:100%;"></a></td>
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png" alt="img" style="max-width:50%;"></a></td>
 		</tr>
 	</tbody>
 </table>
@@ -140,9 +139,9 @@ root@anaconda:~ # pkg install slim
 	<tbody>
 	<tr>
 		<td>
-		<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png">
-		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png" alt="img" style="max-width:100%;">
-		</a>
+		<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png">
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png" alt="img" style="max-width:50%;">
+		</a></p>
 		</td>
 
 		</tr>
