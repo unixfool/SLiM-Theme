@@ -136,7 +136,7 @@ root@anaconda:~ # pkg install slim
 <table>
 <thead>
 <tr>
-<th>Purple</th>
+<th>Orange</th>
 </tr>
 </thead>
 <tbody>
