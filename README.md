@@ -89,20 +89,65 @@ root@anaconda:~ # pkg install slim
 
   ### Preview
   
-  #### Green
-  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png"/><br/>
-  
-  #### Blue
-  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png"/><br/>
-  
-  #### Red
-  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png"/><br/>
-  
-  #### Purple
-  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png"/><br/>
-  
-  #### Orange
-  <img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png"/><br/>
+<table>
+<thead>
+<tr>
+<th>Green</th>
+<th>Blue</th>
+</tr>
+</thead>
+	<tbody>
+	<tr>
+		<td>
+		<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png">
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Green/screenshot.png" alt="img" style="max-width:100%;">
+		</a>
+		</td>
+
+		<td><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png">
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Blue/screenshot.png" alt="img" style="max-width:100%;"></a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Red</th>
+<th>Purple</th>
+</tr>
+</thead>
+	<tbody>
+	<tr>
+		<td>
+		<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png">
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Red/screenshot.png" alt="img" style="max-width:100%;">
+		</a>
+		</td>
+
+		<td><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png">
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Purple/screenshot.png" alt="img" style="max-width:100%;"></a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Purple</th>
+</tr>
+</thead>
+	<tbody>
+	<tr>
+		<td>
+		<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png">
+		<img src="https://raw.githubusercontent.com/unixfool/SLiM-Theme/main/Orange/screenshot.png" alt="img" style="max-width:100%;">
+		</a>
+		</td>
+
+		</tr>
+	</tbody>
+</table>
  
 <p>
  <a href="https://www.buymeacoffee.com/unixfool"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
