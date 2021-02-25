@@ -9,7 +9,7 @@
 #
 
 # style of background: 'stretch', 'tile', 'center', 'color'
-background_style        center
+background_style        stretch
 background_color        #0d1117
 
 
